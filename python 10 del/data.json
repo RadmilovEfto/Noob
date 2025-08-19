@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "Tomislav Nikolic",
+    "age" : 31,
+    "height" : 181
+
+  },
+  {
+     "name" : "Nikola Jokic",
+    "age" : 28,
+    "height" : 205
+
+  },
+  {
+     "name" : "Marija Jovanovic",
+    "age" : 22,
+    "height" : 168
+  }
+]
+
