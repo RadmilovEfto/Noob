@@ -1,0 +1,27 @@
+[
+  {
+    "book" : "Beloto Ciganche",
+    "price" : 500,
+    "in_lager" : 70
+  },
+  {
+    "book" : "Volshebnoto Samarche",
+    "price" : 350,
+    "in_lager" : 22
+  },
+  {
+    "book" : "Zoki Poki",
+    "price" : 150,
+    "in_lager" : 100
+  },
+  {
+    "book" : "Haidi",
+    "price" : 750,
+    "in_lager" : 12
+  },
+  {
+    "book" : "Robinson Kruso",
+    "price" : 1200,
+    "in_lager" : 6
+  }
+]
