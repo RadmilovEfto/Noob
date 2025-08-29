@@ -3,5 +3,5 @@
 
 import json
 
-with open ("products.json", 'r') as file :
+with open ("data/products.json", 'r') as file :
     print(file)
