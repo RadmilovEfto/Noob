@@ -1,1 +1,0 @@
-*ajsaa bash da vidam so se desilo
