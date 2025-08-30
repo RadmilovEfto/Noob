@@ -24,7 +24,7 @@ def calculate_delivery(city):
     else :
        return -1
 product_price = 200
-belgrade_delivery = calculate_delivery("Beograd")
+belgrade_delivery = calculate_delivery("Novi Sad")
 subotica_delivery = calculate_delivery("Subotica")
 total_price = product_price + belgrade_delivery
 print(f"vasa narachka koshta {product_price},  a vasha dostava iznosi {belgrade_delivery}, se ukopno iznosi : {total_price}")
