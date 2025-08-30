@@ -1,0 +1,1 @@
+# Vezba 11 Git hub ke otvoram novo !
