@@ -1,0 +1,1 @@
+#Pocetok na vezba : daj da vidam dali e taka
