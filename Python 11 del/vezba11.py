@@ -1,1 +1,1 @@
-# ohh bree da vidam do deka sum stignan
+#Pocetok na vezba : daj da vidam dali e taka
