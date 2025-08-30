@@ -2,6 +2,7 @@
   "id" :  1,
   "name" : "Efto",
   "age " : 39,
-  "buget" : 1000000,
+  "buget" : 500000,
+  "credit" : 400000,
   "currency" : "euro"
 }
