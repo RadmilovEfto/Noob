@@ -1,2 +1,4 @@
-amaunt : 5000, user : 1, Buged : 900000, Preostali buget 895000 
- Amaunt : 5000, User : 1, Buged : 900000, Preostali buget 895000
+ 
+ Amaunt : 25000, User : 1, Buged : 900000, Preostali buget 875000 Datetime : 2025-08-30  
+ Amaunt : 75000, User : 1, Buged : 900000, Preostali buget 825000 Datetime : 2025-08-30  
+ Amaunt : 21111, User : 1, Buged : 900000, Preostali buget 878889 Datetime : 2025-08-30 

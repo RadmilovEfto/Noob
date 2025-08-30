@@ -1,5 +1,7 @@
 
 import json
+from datetime import date
+
 
 
 # Budzet
@@ -30,7 +32,10 @@ while expense <= 0 or expense > user_buget :
 
 with open("logs/expense_log.txt", 'a') as file :
     remaining_budget = user_buget-expense
-    message = f" \n Amaunt : {expense}, User : {user["id"]}, Buged : {user_buget}, Preostali buget {remaining_budget}"
+    message = (f" \n Amaunt : {expense}, "
+               f"User : {user["id"]}, Buged : {user_buget}, "
+               f"Preostali buget {remaining_budget} "
+               f"Datetime : {date.today()} ")
     file.write(message)
 
 
