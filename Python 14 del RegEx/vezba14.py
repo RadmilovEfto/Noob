@@ -11,3 +11,15 @@ if re.match(letter_pattern, sentence):
     print("Ima samo bukvi")
 else :
     print("ima i broevi")
+
+
+
+important_sentence = "Today will rain all day"
+
+capital_pattern = r"^[A-Z]"
+
+
+if re.match(capital_pattern,important_sentence) :
+    print("String pocinje sa veliko slovo")
+else :
+    print("String Pocinje sa malo slovo")
