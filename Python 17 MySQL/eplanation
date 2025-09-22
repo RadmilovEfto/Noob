@@ -1,0 +1,58 @@
+
+MySql
+SQL - Structured Query Language
+
+
+---------------------
+Baze (database)
+    Tabele (Tabeles)
+
+Baza : WebProdavnica
+    Tabele : (tabelite se sostojat od polinja)
+        Korisnici
+            id - broj(jedisntven broj) EMBG (edinstven matichen broj)
+                -ime
+                                brojeve                     text                            ekstremno velichine teksta
+                - tip : INT (BIGINT, SMALLINT, TINYINT....) VARCHAR(golemina), DECIMAL FLOAT DOUBLE...., TEXT
+                kluch
+                - KEY :  PK - Primary Key - glavni kluc (njega stavljamo na polje [moramo da stavimo] i to pole ce biti glavno i ednistveno
+                not null ne moze da e prazno, NUll moze da e prazno
+
+                -NOT NULL, NULL
+
+
+            name
+
+        Kupovine
+            id
+            name
+            price
+            ...
+
+Query :
+    - Upit ka bazi za neke podatke
+
+    CRUD
+        Create
+        Read
+        Update
+        Delete
+
+     - SELECT : uzmi podatke
+        - SELECT name FROM users - Uzmi imena od korisnika
+
+     - INSERT INTO : Upisemo podatke u bazi
+        - INSERT INTRO users - napravi novog korisnika
+
+     - DELETE : brishemo podatke iz baze
+        - DELETE FROM users WHERE name = "Toma" Brishemo korisnika iz tabele users koji se zove "Toma"
+
+     - UPDATE : Updates ili azurirati neki podatak
+        - Menjamo ime nekog korisnika iz tabele users
+
+PROGRAMI ZA KONEKCIJU :
+    -PyCharm
+    - MySQL Workbench
+    - Datagrip
+    - Terminala (cmd - komandne linije) - ne e preporacheno
+
