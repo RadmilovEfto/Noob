@@ -40,15 +40,25 @@ Query :
 
      - SELECT : uzmi podatke
         - SELECT name FROM users - Uzmi imena od korisnika
+         -       * ( mean all )
+        - SELECT * FROM users WHERE ages >= 18
+        - SELECT * FROM users WHERE ages >= 18 ORDER BY ages ASC (znaci da podredi od najmali ages pa nagore)
+        - SELECT * FROM users WHERE ages >= 18 ORDER BY ages DESC (od naj golem ages pa nadole)
+        - SELECT * FROM users WHERE ages >= 18 ORDER BY ages DESC LIMIT 2 (da dade prvite 2 od tabelata)
 
      - INSERT INTO : Upisemo podatke u bazi
         - INSERT INTRO users - napravi novog korisnika
+        INSERT INTO users(usarname, password, ages) VALUES
+                                                ('Vasko','vmro12',33),
+                                                ('Kiril', 'lav111', 19)
 
      - DELETE : brishemo podatke iz baze
         - DELETE FROM users WHERE name = "Toma" Brishemo korisnika iz tabele users koji se zove "Toma"
+        - DELETE FROM users WHERE usarname = 'Marija'
 
      - UPDATE : Updates ili azurirati neki podatak
         - Menjamo ime nekog korisnika iz tabele users
+        -UPDATE users SET usarname = "Pero" where ID = 1
 
 PROGRAMI ZA KONEKCIJU :
     -PyCharm
@@ -56,3 +66,7 @@ PROGRAMI ZA KONEKCIJU :
     - Datagrip
     - Terminala (cmd - komandne linije) - ne e preporacheno
 
+Vezba :
+Update korisnika lozinku Vasko , promenije u levica123
+Resenie :
+ - UPDATE users SET password = "levica123" where ID = 4
