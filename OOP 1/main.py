@@ -2,7 +2,7 @@
 # OOP
 #Klasa
 # Osoba -> ime , prezime, visina, tezina
-  # Tomislav, Nikolic, 183.5, 100 -> Object
+  # Tomislav, Nikolic, 183.5, 100 -> Object <- toma = Person() : <- self
   # Marko, Markovic, 181.5, 120   -> Objekt
   # Sara, Petrovvic, 170, 70      -> Object
 # Product -> name, size, prize, amount
@@ -10,10 +10,14 @@
 
 
 class Person :
+
+    def __init__(self, name, age):
+        print (name, age)
+
     def say_hello(self):
         print("Hello Wrold")
 
-toma = Person()
+toma = Person("Efto", 39)
 toma.say_hello()
 
 

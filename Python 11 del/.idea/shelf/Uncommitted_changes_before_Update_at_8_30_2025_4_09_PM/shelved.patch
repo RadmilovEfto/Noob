@@ -1,0 +1,9 @@
+Index: Vezba11.py
+===================================================================
+diff --git a/Vezba11.py b/Vezba11.py
+deleted file mode 100644
+--- a/Vezba11.py	(revision 9bf8323c52dcdf904236df9f513ab9099fc60714)
++++ /dev/null	(revision 9bf8323c52dcdf904236df9f513ab9099fc60714)
+@@ -1,1 +0,0 @@
+-#Pocetok na vezba : daj da vidam dali e taka
+\ No newline at end of file

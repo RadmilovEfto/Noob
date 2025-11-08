@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="590640ec-48f4-4b6b-815c-cbf8f9dcea52" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RadmilovEfto&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RadmilovEfto/Noob.git&quot;,
+    &quot;accountId&quot;: &quot;84259bd7-eb0d-4bee-9466-5e3051844992&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="320flSVfTQ9lYv33E0nbw0rq8o7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.vezva11.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\radmi\Desktop\Python\Python 11 del\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590640ec-48f4-4b6b-815c-cbf8f9dcea52" name="Changes" comment="" />
+      <created>1756562562071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756562562071</updated>
+    </task>
+    <task id="LOCAL-00001" summary="# Pojasunuvanje samo proveka">
+      <option name="closed" value="true" />
+      <created>1756562946775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756562946775</updated>
+    </task>
+    <task id="LOCAL-00002" summary="# Pojasunuvanje samo proveka">
+      <option name="closed" value="true" />
+      <created>1756562965745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756562965745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="# Pojasunuvanje samo proveka">
+      <option name="closed" value="true" />
+      <created>1756563760910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756563760910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="# Pojasunuvanje samo proveka">
+      <option name="closed" value="true" />
+      <created>1756563777620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756563777620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="do 11.10 sum,">
+      <option name="closed" value="true" />
+      <created>1756565872695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756565872695</updated>
+    </task>
+    <task id="LOCAL-00006" summary="do 11.10 sum,">
+      <option name="closed" value="true" />
+      <created>1756581886710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756581886710</updated>
+    </task>
+    <task id="LOCAL-00007" summary="do 11.10 sum, del 2">
+      <option name="closed" value="true" />
+      <created>1756583634050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756583634050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="do 11.10 sum, del 2.1">
+      <option name="closed" value="true" />
+      <created>1756583768365</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756583768365</updated>
+    </task>
+    <task id="LOCAL-00009" summary="do 11.10 sum, del 2.2 complete">
+      <option name="closed" value="true" />
+      <created>1756584262980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756584262980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="za sega raboti taka kako so e, da go proveram koga ke zavrsham so lekcijata 11" />
+    <MESSAGE value="# Pojasunuvanje samo proveka dali fukcionira" />
+    <MESSAGE value="# Pojasunuvanje samo proveka" />
+    <MESSAGE value="do 11.10 sum,2" />
+    <MESSAGE value="do 11.10 sum," />
+    <MESSAGE value="do 11.10 sum, del 2" />
+    <MESSAGE value="do 11.10 sum, del 2.1" />
+    <MESSAGE value="do 11.10 sum, del 2.2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="do 11.10 sum, del 2.2 complete" />
+  </component>
+</project>
