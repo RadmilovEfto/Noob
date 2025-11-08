@@ -13,7 +13,4 @@ if connection.open :
 else :
     print("not")
 
-cursor = connection.cursor()
 
-cursor.execute("INSERT INTO users (usarname, password, ages) VALUES ('Toma', 'aaass',35) ")
-connection.commit()
