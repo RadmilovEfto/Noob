@@ -11,16 +11,17 @@
 
 class Person :
 
-    def __init__(self, name, age):
-        print (name, age)
+    def __init__(self, name, age): #kada se kreira objekat mora da se prosledi ime
+        self.name = name # to ime sto je prosledjeno vezujemo za taj objekat
+        self.age = age
 
-    def say_hello(self):
-        print("Hello Wrold")
+    def write_my_name(self):
+        print(self.name, self.age)
 
-toma = Person("Efto", 39)
-toma.say_hello()
-
-
+efto = Person("Efto", 39)
+efto.write_my_name()
+toma = Person("toma", 35)
+toma.write_my_name()
 #Objekt
 # Product -> name, size, prize, amount
 # class Product -> "hleb" 123, 90, 1
