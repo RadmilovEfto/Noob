@@ -12,9 +12,11 @@ class Product (Db):
     }
 
 
-    def __init__(self , name, price, amaunt, type):
+    def __init__(self  ):
 
         super().__init__()
+
+    def create (self,name, price, amaunt, type ):
 
         if amaunt < 1 :
             raise ValueError("Amaunt must be more then 0")

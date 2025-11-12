@@ -1,10 +1,13 @@
 from product import Product
 from Schoppingcart import Shoppingcart
 
-Iphone16 = Product("iphone16 pro",1500,15,"ios")
-samsungS25 = Product("samsung ", 2500, 110, "android")
-nokia = Product("Nokia", 500, 50, "android")
+Iphone16 = Product()
+samsungS25 = Product()
+nokia = Product()
 
+Iphone16.create("iphone16 pro",1500,15,"ios")
+samsungS25.create("samsung ", 2500, 110, "android")
+nokia.create("Nokia", 500, 50, "android")
 
 phonecart = Shoppingcart()
 phonecart.add_product(Iphone16)
